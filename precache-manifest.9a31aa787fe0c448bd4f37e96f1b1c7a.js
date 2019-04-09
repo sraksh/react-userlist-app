@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/react-userlist-app/static/js/runtime~main.8f60c97f.js"
   },
   {
-    "revision": "5151199569ce98bde63a",
-    "url": "/react-userlist-app/static/js/main.29ede0f3.chunk.js"
+    "revision": "b63cc7db1c8d4d7c1a7e",
+    "url": "/react-userlist-app/static/js/main.52b303b4.chunk.js"
   },
   {
     "revision": "057b8f35c6ba80c8cfbf",
     "url": "/react-userlist-app/static/js/2.10170861.chunk.js"
   },
   {
-    "revision": "5151199569ce98bde63a",
-    "url": "/react-userlist-app/static/css/main.5b8c308c.chunk.css"
+    "revision": "b63cc7db1c8d4d7c1a7e",
+    "url": "/react-userlist-app/static/css/main.b80037f8.chunk.css"
   },
   {
-    "revision": "c637ef81a385bbb1f01fffcfbc4da5ff",
+    "revision": "d02f2fe581f78e80bd099b1ff378735c",
     "url": "/react-userlist-app/index.html"
   }
 ];
