@@ -27,12 +27,10 @@ class UserDetails extends Component {
   render() {
     if (!this.state.userDetails)
       return (<p>Loading Data</p>)
-    return (<div className="userdetails">
-      <div className="centeralign">
-        <div>
-          <h3>{this.state.userDetails.data.name}</h3>
-        </div>
-        <div>
+    return (<div className="userdetails margintop">
+      <div className="centeralign panel panel-primary">
+        <div className="panel-heading"> {this.state.userDetails.data.name}</div>
+        <div className="panel-body">
           <p>Name : {this.state.userDetails.data.name}</p>
           <p>Email : {this.state.userDetails.data.email}</p>
           <p>Phone : {this.state.userDetails.data.phone}</p>
